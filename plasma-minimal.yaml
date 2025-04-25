@@ -9,6 +9,7 @@ packages:
   - 'discover'
   - 'drkonqi'
   - 'gwenview'
+  - 'kcalc'
   - 'kde-gtk-config'
   - 'kde-system-meta'
   - 'kdeplasma-addons'
