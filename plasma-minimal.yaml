@@ -42,6 +42,7 @@ packages:
   - 'print-manager'
   - 'sddm-kcm'
   - 'spectacle'
+  - 'system-config-printer'
   - 'wacomtablet'
   - 'xdg-desktop-portal-kde'
   - 'flatpak-kcm'
